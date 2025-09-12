@@ -1,0 +1,8 @@
+title: 3407 Wild Cards
+theme: minima
+
+github:
+  is_project_page: false
+exclude:
+  - README.md
+  - LICENSE
