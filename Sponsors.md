@@ -2,16 +2,16 @@
 
 ## A big thanks to all our sponsors for their support!
 
-![3m](img/3m.png)
+![3m](Img/3m.png)
 
-![Anderson Power](img/AndersonPower.png)
+![Anderson Power](Img/AndersonPower.png)
 
-![First Robotics](img/FirstRobotics.png)
+![First Robotics](Img/FirstRobotics.png)
 
-![Gene Haas](img/GeneHaas.png)
+![Gene Haas](Img/GeneHaas.png)
 
-![Mounds View](img/horse.jpg)
+![Mounds View](Img/horse.jpg)
 
-![Pentair](img/Pentair.png)
+![Pentair](Img/Pentair.png)
 
-![Solid Works](img/Solidworks.png)
+![Solid Works](Img/Solidworks.png)
