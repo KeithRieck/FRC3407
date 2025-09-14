@@ -1,4 +1,6 @@
-# Upcoming Events
+---
+title: Upcoming Events
+---
 
 ### Minnesota Robotics Invitational (MRI)
 
