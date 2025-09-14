@@ -1,8 +1,8 @@
 ---
-title: index-title
+title: FRC Team 3407
 description: index-desc
 ---
-# FRC Team 3407
+
 
 ## Who We Are
 
