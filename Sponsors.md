@@ -1,19 +1,19 @@
---
+---
 title: Sponsors
---
+---
 
 ## A big thanks to all our sponsors for their support!
 
 <img src="Img/3m.png" alt="3M"/>
 
-![Anderson Power](Img/AndersonPower.png)
+<img src="Img/AndersonPower.png" alt="Anderson Power"/>
 
-![First Robotics](Img/FirstRobotics.png)
+<img src="Img/FirstRobotics.png" alt="First Robotics"/>
 
-![Gene Haas](Img/GeneHaas.png)
+<img src="Gene Haas" alt="Img/GeneHaas.png"/>
 
-<img alt="Mounds View" src="Img/horse.jg"/>
+<img alt="Mounds View" src="Img/horse.jpg"/>
 
-![Pentair](Img/Pentair.png)
+<img src="Img/Pentair.png" alt="Pentair"/>
 
-![Solid Works](Img/Solidworks.png)
+<img src="Img/Solidworks.png" alt="Solid Works"/>
