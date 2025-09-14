@@ -1,8 +1,10 @@
-# Sponsors
+--
+title: Sponsors
+--
 
 ## A big thanks to all our sponsors for their support!
 
-![3m](Img/3m.png)
+<img src="Img/3m.png" alt="3M"/>
 
 ![Anderson Power](Img/AndersonPower.png)
 
@@ -10,7 +12,7 @@
 
 ![Gene Haas](Img/GeneHaas.png)
 
-![Mounds View](Img/horse.jpg)
+<img alt="Mounds View" src="Img/horse.jg"/>
 
 ![Pentair](Img/Pentair.png)
 
