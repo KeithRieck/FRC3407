@@ -1,3 +1,6 @@
+---
+title: Parent Information Meeting
+---
 # Second Post
 
 The quick brown flox jumped over the lazy dog.

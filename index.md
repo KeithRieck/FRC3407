@@ -1,6 +1,5 @@
 ---
-title: FRC Team 3407
-description: index-desc
+title: 3407
 ---
 
 
