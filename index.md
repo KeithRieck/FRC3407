@@ -1,5 +1,6 @@
 ---
 title: 3407
+layout: page
 ---
 
 
