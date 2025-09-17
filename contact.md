@@ -1,5 +1,5 @@
 ---
-Contact Us / Sign Up
+title: Contact Us / Sign Up
 ---
 
 
