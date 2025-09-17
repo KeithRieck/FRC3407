@@ -1,6 +1,8 @@
 ---
-title: FRC Team 3407
+title: Home
 ---
+
+# FRC team 3407
 
 ## Who We Are
 
@@ -18,3 +20,4 @@ M.R.I. Robot Preparation
 
 [Team GitHub](https://github.com/FRC3407)
 
+[Blue Alliance](https://www.thebluealliance.com/team/3407)
