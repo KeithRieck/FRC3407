@@ -1,4 +1,6 @@
-# FRC Team 3407
+---
+title: FRC Team 3407
+---
 
 ## Who We Are
 
