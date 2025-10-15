@@ -2,4 +2,4 @@
 
 Made by Einar and Rohan
 
-https://frcteam3407.com/FRC3407/
+https://keithrieck.github.io/FRC3407/
