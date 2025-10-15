@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# FRC team 3407 !!!
+# FRC team 3407
 
 ## Who We Are
 
